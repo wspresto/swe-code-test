@@ -1,0 +1,5 @@
+/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Data/obj/Debug/net5.0/Ash.Swe.Test.Data.csproj.AssemblyReference.cache
+/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Data/obj/Debug/net5.0/Ash.Swe.Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Data/obj/Debug/net5.0/Ash.Swe.Test.Data.AssemblyInfoInputs.cache
+/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Data/obj/Debug/net5.0/Ash.Swe.Test.Data.AssemblyInfo.cs
+/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Data/obj/Debug/net5.0/Ash.Swe.Test.Data.csproj.CoreCompileInputs.cache
