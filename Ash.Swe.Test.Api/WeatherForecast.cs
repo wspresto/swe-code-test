@@ -1,6 +1,6 @@
 using System;
 
-namespace swe_code_test
+namespace Ash.Swe.Test.Api
 {
     public class WeatherForecast
     {

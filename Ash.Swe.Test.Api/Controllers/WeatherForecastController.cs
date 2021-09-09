@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace swe_code_test.Controllers
+namespace Ash.Swe.Test.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

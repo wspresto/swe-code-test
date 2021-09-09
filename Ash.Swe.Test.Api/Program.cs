@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace swe_code_test
+namespace Ash.Swe.Test.Api
 {
     public class Program
     {

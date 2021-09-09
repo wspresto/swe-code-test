@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wspresto/prgms/swe-code-test/swe-code-test.csproj": {}
+    "/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Api/swe-code-test.csproj": {}
   },
   "projects": {
-    "/home/wspresto/prgms/swe-code-test/swe-code-test.csproj": {
+    "/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Api/swe-code-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wspresto/prgms/swe-code-test/swe-code-test.csproj",
+        "projectUniqueName": "/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Api/swe-code-test.csproj",
         "projectName": "swe-code-test",
-        "projectPath": "/home/wspresto/prgms/swe-code-test/swe-code-test.csproj",
+        "projectPath": "/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Api/swe-code-test.csproj",
         "packagesPath": "/home/wspresto/.nuget/packages/",
-        "outputPath": "/home/wspresto/prgms/swe-code-test/obj/",
+        "outputPath": "/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wspresto/.nuget/NuGet/NuGet.Config"

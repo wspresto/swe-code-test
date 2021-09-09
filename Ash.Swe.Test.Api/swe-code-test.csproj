@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>swe_code_test</RootNamespace>
+    <RootNamespace>Ash.Swe.Test.Api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

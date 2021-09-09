@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6z5eKPOpVyVRWtqWtGqGqkcoIGlARPOdOnb/mraKMne3tNOWqcJU5Ba4+8v5nQHPGLtWDjH81sQXRjEFEBC3A==",
+  "dgSpecHash": "wODrzgvdg7qX963UeMLGSaScZVUP/GBlZ2bEwVwEKGaAbFsMdRvidwCzOO7dlLj284p0kJ0aGXML2MP3nPDXUw==",
   "success": true,
-  "projectFilePath": "/home/wspresto/prgms/swe-code-test/swe-code-test.csproj",
+  "projectFilePath": "/home/wspresto/prgms/swe-code-test/Ash.Swe.Test.Api/swe-code-test.csproj",
   "expectedPackageFiles": [
     "/home/wspresto/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/wspresto/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
