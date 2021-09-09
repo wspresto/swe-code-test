@@ -24,14 +24,20 @@ namespace Ash.Swe.Test.Api.Controllers
 
         [HttpGet]
         [Route("/workers")]
-        public Task<List<WorkerVM>> GetWorkers() {
-            return _workerService.GetWorkers();
+        public async Task<ActionResult<List<WorkerVM>>> GetWorkersAsync() {
+            return await  _workerService.GetWorkersAsync();
         }
 
         [HttpPost]
         [Route("/worker")]
-        public Task<WorkerVM> AddWorker([FromBody] WorkerVM vm) {
-            return _workerService.AddWorker(vm);
+        public async Task<ActionResult<WorkerVM>> AddWorkerAsync([FromBody] WorkerVM vm) {
+            try {
+                return await _workerService.AddWorkerAsync(vm);
+            } catch (Exception e) {
+                _logger.LogError(e, e.Message);
+                return StatusCode(500); // hide stack trace
+            }
+
 
         }
     }

@@ -16,23 +16,25 @@ namespace Ash.Swe.Test.Api.Services
             _logger = logger;
         }
 
-        public async Task<List<WorkerVM>> GetWorkers() {
+        public async Task<List<WorkerVM>> GetWorkersAsync() {
                     //TODO: get all workers
             return null;
         }
 
-        public async Task<WorkerVM> AddWorker(WorkerVM workerVm) {
+        public async Task<WorkerVM> AddWorkerAsync(WorkerVM workerVm) {
             if (workerVm.Title == EmployeeTypeEnum.Employee.ToString()) {
-
+                //TODO: add new worker/employee
             } else if (workerVm.Title == EmployeeTypeEnum.Manager.ToString()) {
-
+                //TODO: add new worker/manager
             } else if (workerVm.Title == EmployeeTypeEnum.Supervisor.ToString()) {
-                
+                //TODO: add new worker/supervisor
+            } else {
+                throw new Exception("Could not add worker");
             }
 
-                    //TODO: add new worker/manager
-                    //TODO: add new worker/employee
-                    //TODO: add new worker/supervisor
+                    
+                
+                    
             return null;
         }
 
