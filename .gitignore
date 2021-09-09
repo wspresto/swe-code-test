@@ -2,3 +2,4 @@ bin/
 *.*~
 temp/
 appsettings.Development.json
+obj/
